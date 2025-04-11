@@ -91,3 +91,9 @@ This repository contains the analysis of transcription factor (TF) activities ac
 -   **TFs with largest activity differences**:
     -   Highlighted transcriptional rewiring between Long Covid and Control.
 -   **Target gene annotation** connects key TFs to inflammation, T cell exhaustion, and IFN signaling.
+
+![](https://github.com/chingyaousf/Gene-Regulatory-Network-and-Pathway-Analysis-in-Long-Covid-using-decoupleR/blob/main/plots/top20_TF_activities_heatmap_control_02.png?raw=true){width="735"}
+
+![](https://github.com/chingyaousf/Gene-Regulatory-Network-and-Pathway-Analysis-in-Long-Covid-using-decoupleR/blob/main/plots/top20_TF_activities_heatmap_longcovid_02.png?raw=true){width="735"}
+
+![](https://github.com/chingyaousf/Gene-Regulatory-Network-and-Pathway-Analysis-in-Long-Covid-using-decoupleR/blob/main/plots/top20_TF_activities_difference_heatmap.png?raw=true){width="735"}
